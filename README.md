@@ -8,8 +8,8 @@ Once all data is filled in it is sent to the data receiver activity and displaye
 
 ## App Screenshots
 
-* MainActivity Screenshot \n
-![screenshotone](screenshotone.png) \n
+* MainActivity Screenshot\
+![screenshotone](screenshotone.png)\
 
-* DataReceiverActivity Screenshot \n
-![screenshottwo](screenshottwo.png)\n
+* DataReceiverActivity Screenshot\
+![screenshottwo](screenshottwo.png)\
